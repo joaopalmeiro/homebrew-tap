@@ -1,13 +1,13 @@
 class DelIgnore < Formula
   desc "A CLI to delete all gitignored files in a project."
   homepage "https://gitlab.com/joaommpalmeiro/del-ignore"
-  version "0.1.0"
+  version "0.1.1"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://gitlab.com/joaommpalmeiro/del-ignore/-/releases/v0.1.0/downloads/del-ignore-darwin-arm64"
-      sha256 "c2def70f5dec73e550e254560d755081382998fad1caea91143bf0d2809c65e7"
+      url "https://gitlab.com/joaommpalmeiro/del-ignore/-/releases/v0.1.1/downloads/del-ignore-darwin-arm64"
+      sha256 "a37c444518c952b22a538fcf4e8229ded45cf74e59fb0edd81723dfa1fcbcbde"
     end
   end
 
